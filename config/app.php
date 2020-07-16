@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://chessroom.top'),
+    'url' => env('APP_URL', 'https://chessroom.herokuapp.com'),
 
     'asset_url' => env('ASSET_URL', null),
 
